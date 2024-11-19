@@ -2,7 +2,12 @@
 
 
 [👉 ダウンロード](https://github.com/syamatsumi/udev-gothic_ysmod/releases/latest)  
-UDEV Gothicを弄れば色々出来るかなって思って
+UDEV Gothicを弄れば色々出来るかなって思ってやってみた。
+ダッシュと長音の見分けが付かずにブチ切れたのを切っ掛けにやってみましたが、
+Dとパイプと長音の3つ差し替えるだけでとんでもない時間かかってしまった……
+
+や、ホントこういうの作れる人凄いわ……（；´Д｀）
+
 下記文書はフォーク元のreadmeのまんまです。
 
 UDEV Gothic は、ユニバーサルデザインフォントの [BIZ UDゴシック](https://github.com/googlefonts/morisawa-biz-ud-gothic) と、 開発者向けフォントの [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono) を合成した、プログラミング向けフォントです。
