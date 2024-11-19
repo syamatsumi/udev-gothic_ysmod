@@ -1,0 +1,4 @@
+#& "C:\Program Files (x86)\FontForgeBuilds\bin\ffpython.exe" .\fontforge_scriptplus.py --jpdoc --nerd-font --hidden-zenkaku-space --ysmod ; py -3 .\fonttools_script.py
+#& "C:\Program Files (x86)\FontForgeBuilds\bin\ffpython.exe" .\fontforge_scriptplus.py --jpdoc --nerd-font --hidden-zenkaku-space --liga --ysmod ; py -3 .\fonttools_script.py
+#& "C:\Program Files (x86)\FontForgeBuilds\bin\ffpython.exe" .\fontforge_scriptplus.py --jpdoc --nerd-font --ysmod ; py -3 .\fonttools_script.py
+& "C:\Program Files (x86)\FontForgeBuilds\bin\ffpython.exe" .\fontforge_scriptplus.py --jpdoc --nerd-font --liga --ysmod ; py -3 .\fonttools_script.py
