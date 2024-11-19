@@ -1,7 +1,9 @@
 # UDEV Gothic(ysmod)
 
+
+[👉 ダウンロード](https://github.com/syamatsumi/udev-gothic_ysmod/releases/latest)  
 UDEV Gothicを弄れば色々出来るかなって思って
-下記はフォーク元のreadmeのまんまです。
+下記文書はフォーク元のreadmeのまんまです。
 
 UDEV Gothic は、ユニバーサルデザインフォントの [BIZ UDゴシック](https://github.com/googlefonts/morisawa-biz-ud-gothic) と、 開発者向けフォントの [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono) を合成した、プログラミング向けフォントです。
 
